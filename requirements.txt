@@ -2,4 +2,4 @@ matplotlib
 numpy
 skimage
 pydicom
-cv2
+opencv-python
