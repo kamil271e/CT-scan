@@ -1,3 +1,3 @@
 # tomography
 
-University project which simulate CT scan.
+University project which simulates CT scan.
